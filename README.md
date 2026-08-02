@@ -40,7 +40,6 @@ NutriON helps users scan drink labels, photograph meals, and manually log food t
 | AI - Vision | Kimi/Moonshot (food photos) |
 | AI - LLM | Azure OpenAI (gpt-5-mini) |
 | AI - RAG | ChromaDB + approved health knowledge |
-| Notifications | Telegram Bot API |
 
 ---
 
@@ -53,7 +52,6 @@ NutriON helps users scan drink labels, photograph meals, and manually log food t
 - Supabase project (Postgres database)
 - Azure OpenAI / Content Understanding keys
 - Kimi/Moonshot API key
-- Telegram bot token (from @BotFather)
 
 ### Backend
 
